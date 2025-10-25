@@ -1,0 +1,16 @@
+C:\Users\toukh\source\repos\UMS\UMS\bin\Debug\UMS.exe.config
+C:\Users\toukh\source\repos\UMS\UMS\bin\Debug\UMS.exe
+C:\Users\toukh\source\repos\UMS\UMS\bin\Debug\UMS.pdb
+C:\Users\toukh\source\repos\UMS\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+C:\Users\toukh\source\repos\UMS\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+C:\Users\toukh\source\repos\UMS\UMS\obj\Debug\UMS.exe
+C:\Users\toukh\source\repos\UMS\UMS\obj\Debug\UMS.pdb
+C:\Users\toukh\source\repos\UMS\UMS\obj\Debug\UMS.exe.config
+D:\KAITECH BIM Development\Assignments\UMS\UMS\bin\Debug\UMS.exe.config
+D:\KAITECH BIM Development\Assignments\UMS\UMS\bin\Debug\UMS.exe
+D:\KAITECH BIM Development\Assignments\UMS\UMS\bin\Debug\UMS.pdb
+D:\KAITECH BIM Development\Assignments\UMS\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+D:\KAITECH BIM Development\Assignments\UMS\UMS\obj\Debug\UMS.exe.config
+D:\KAITECH BIM Development\Assignments\UMS\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+D:\KAITECH BIM Development\Assignments\UMS\UMS\obj\Debug\UMS.exe
+D:\KAITECH BIM Development\Assignments\UMS\UMS\obj\Debug\UMS.pdb

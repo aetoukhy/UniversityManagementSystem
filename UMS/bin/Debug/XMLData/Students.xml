@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student Id="1">
+    <Name>Ahmed</Name>
+    <StdDepId>1</StdDepId>
+    <Marks>
+      <SerializedMark SubjectId="1" Score="90" />
+      <SerializedMark SubjectId="2" Score="70" />
+    </Marks>
+  </Student>
+  <Student Id="2">
+    <Name>Mostafa</Name>
+    <StdDepId>1</StdDepId>
+    <Marks />
+  </Student>
+</ArrayOfStudent>

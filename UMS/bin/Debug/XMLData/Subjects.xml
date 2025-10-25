@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfSubject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Subject Id="1">
+    <Name>Maths</Name>
+    <SubjectDepId>1</SubjectDepId>
+    <FullMark>100</FullMark>
+  </Subject>
+  <Subject Id="2">
+    <Name>Physics</Name>
+    <SubjectDepId>0</SubjectDepId>
+    <FullMark>200</FullMark>
+  </Subject>
+</ArrayOfSubject>

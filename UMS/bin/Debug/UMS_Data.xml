@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UMS>
+  <Universities>
+    <University Id="1" Name="cairo" Address="giza">
+      <Colleges>
+        <CollegeRef Id="2" />
+      </Colleges>
+    </University>
+  </Universities>
+  <Colleges>
+    <College Id="1" Name="engineering">
+      <Departments />
+    </College>
+    <College Id="2" Name="engineering - cairo">
+      <Departments>
+        <DepartmentRef Id="1" />
+      </Departments>
+    </College>
+  </Colleges>
+  <Departments>
+    <Department Id="1" Name="civil" CollegeId="2">
+      <Subjects />
+    </Department>
+  </Departments>
+  <Subjects>
+    <Subject Id="1" Name="math" FullMark="100" DepartmentId="1" />
+  </Subjects>
+  <Students>
+    <Student Id="1" Name="ahmed" DepartmentId="1">
+      <Marks>
+        <Mark SubjectId="1" Value="60" />
+      </Marks>
+    </Student>
+  </Students>
+</UMS>

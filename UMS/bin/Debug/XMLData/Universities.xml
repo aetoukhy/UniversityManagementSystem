@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfUniversity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <University Id="1">
+    <Name>Cairo</Name>
+    <Address>cairo</Address>
+    <CollegeIds />
+    <UniDeps />
+    <UniSubs />
+    <UniStds />
+  </University>
+</ArrayOfUniversity>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfCollege xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <College Id="1">
+    <Name>Engineering</Name>
+    <CollUniId>1</CollUniId>
+    <Departments>
+      <Department Id="1">
+        <Name>CIVIL</Name>
+        <DepCollegeId>1</DepCollegeId>
+        <Students>
+          <Student Id="1">
+            <Name>Ahmed</Name>
+            <StdDepId>1</StdDepId>
+            <Marks>
+              <SerializedMark SubjectId="1" Score="90" />
+              <SerializedMark SubjectId="2" Score="70" />
+            </Marks>
+          </Student>
+          <Student Id="2">
+            <Name>Mostafa</Name>
+            <StdDepId>1</StdDepId>
+            <Marks />
+          </Student>
+        </Students>
+        <Subjects>
+          <Subject Id="1">
+            <Name>Maths</Name>
+            <SubjectDepId>1</SubjectDepId>
+            <FullMark>100</FullMark>
+          </Subject>
+        </Subjects>
+      </Department>
+    </Departments>
+  </College>
+</ArrayOfCollege>
